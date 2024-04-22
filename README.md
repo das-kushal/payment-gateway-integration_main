@@ -1,4 +1,4 @@
-# Payment Gateway Integration [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+# Payment Gateway Integration 
 
 This is a simple webpage having a payment gateway integration using razorpay
 
